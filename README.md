@@ -9,11 +9,9 @@
   </a>
 </div>
 
-<h3>About me</h3>
-<br>
-- 🔭 I’m currently studying in ITMO, Software engineering & Computer Science, BSc 2022 - 2026
-- 🌱 I’m currently learning Back-end, Front-end, Algorithms
-<br><br>
+### :fire: About me :
+- I’m currently studying in ITMO, Software engineering & Computer Science, BSc 2022 - 2026
+- I’m currently learning Back-end, Front-end, Algorithms
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
